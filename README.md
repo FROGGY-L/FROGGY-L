@@ -194,7 +194,7 @@ Attendance, employee, ERP, and internal management solutions.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FROGGY-L&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FROGGY-L&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="Contribution Graph">
 </p>
 
 ---
