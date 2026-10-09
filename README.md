@@ -194,7 +194,7 @@ Attendance, employee, ERP, and internal management solutions.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=FROGGY-L&theme=tokyo-night&hide_border=true&area=true&radius=10" width="100%" alt="Contribution Graph">
+  <img src="https://streak-stats.demolab.com?user=FROGGY-L&theme=tokyonight&hide_border=true&radius=10" width="100%" alt="GitHub Streak">
 </p>
 
 ---
