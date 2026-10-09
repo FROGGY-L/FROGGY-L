@@ -194,7 +194,7 @@ Attendance, employee, ERP, and internal management solutions.
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=FROGGY-L&theme=tokyonight&hide_border=true&radius=10" width="100%" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=FROGGY-L&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="100%" alt="GitHub Stats">
 </p>
 
 ---
