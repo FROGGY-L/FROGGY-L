@@ -117,6 +117,7 @@ I work across both **frontend and backend development**, with a particular inter
 <p align="center">
   <img src="https://img.shields.io/badge/Payload_CMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white">
   <img src="https://img.shields.io/badge/ERPNext-0089FF?style=for-the-badge&logo=erpnext&logoColor=white">
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=erpnext&logoColor=white">
 </p>
 
 ## 🛠️ Tools & DevOps
